@@ -1,4 +1,5 @@
-# Photoshop-jsx-Script - Scripts for Adobe Photoshop CC
+# Photoshop-jsx-Script
+## - Scripts for Adobe Photoshop CC
 
 ---
 
@@ -12,6 +13,5 @@
 
 ## Script file
 - make_L_print_image.jsx
-
-convert all images of directry to optimum imanges for L format print ( 89mm * 127mm )
+    - convert all images of directry to optimum imanges for L format print ( 89mm * 127mm )
 
